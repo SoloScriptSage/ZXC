@@ -1,4 +1,4 @@
-# 🔮 ZXC - Castle Wizard Slayer
+# <div align="center"> 🔮 ZXC - Castle Wizard Slayer </div>
 
 Welcome to ZXC, the ultimate Castle Wizard Slayer game!
 

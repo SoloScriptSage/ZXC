@@ -3,8 +3,6 @@
   <img src="https://github.com/SoloScriptSage/ZXC/assets/145594568/399af4e3-0ffd-448d-8faa-3d88ec0f2cf9">
 </p>
 
-# <div align="center"></div>
-
 ##  <div align="center">Features</div>
 
 - 🧙‍♂️ **Wizard's Power:** Control a wizard armed with an arsenal of magical abilities to thwart the skeletal horde.

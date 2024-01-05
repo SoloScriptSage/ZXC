@@ -46,7 +46,7 @@ We welcome contributions from the community to make ZXC even more magical! If yo
 
 🧙‍♂️ [Download the latest version](https://drive.google.com/file/d/1GIHNRcoFWHKrdNLS-vZ5EBWmCSPi6Vno/view?usp=drive_link)
 <p align="center">
-  <img src="https://github.com/SoloScriptSage/ZXC/assets/145594568/399af4e3-0ffd-448d-8faa-3d88ec0f2cf9](https://github.com/SoloScriptSage/ZXC/assets/145594568/4253b80d-6238-4ece-b52d-29538e94dc90">
+  <img src="https://github.com/SoloScriptSage/ZXC/assets/145594568/bcf51e19-601c-47f7-8883-01e01b35dd5c">
 </p>
 
 

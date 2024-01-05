@@ -1,5 +1,5 @@
 <p align="center">
-![Ресурс 1](https://github.com/SoloScriptSage/ZXC/assets/145594568/399af4e3-0ffd-448d-8faa-3d88ec0f2cf9)
+  <img src="https://github.com/SoloScriptSage/ZXC/assets/145594568/399af4e3-0ffd-448d-8faa-3d88ec0f2cf9">
 </p>
 
 # <div align="center"> 🔮 ZXC - Castle Wizard Slayer </div>

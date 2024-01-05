@@ -41,10 +41,10 @@ We welcome contributions from the community to make ZXC even more magical! If yo
 
 - 🛠️ **Pull Requests**: Contribute directly by submitting pull requests. Follow our contribution guidelines for a smooth process.
 
-## <div align="center">Download Now</div>
+## <div align="center">Download Now
 
 🧙‍♂️ [Download the latest version](https://drive.google.com/file/d/1GIHNRcoFWHKrdNLS-vZ5EBWmCSPi6Vno/view?usp=drive_link)
-
+</div>
 ## <div align="center">Community and Support</div>
 Join our wizarding community to:
 

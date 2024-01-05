@@ -5,8 +5,6 @@
 
 # <div align="center"></div>
 
- <div align="center">Welcome to ZXC, the ultimate Castle Wizard Slayer game!</div>
-
 ##  <div align="center">Features</div>
 
 - 🧙‍♂️ **Wizard's Power:** Control a wizard armed with an arsenal of magical abilities to thwart the skeletal horde.

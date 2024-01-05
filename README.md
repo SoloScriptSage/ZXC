@@ -17,19 +17,21 @@
 
 ## <div align="center">Getting Started</div>
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/ZXC.git
-   ```
-2. **Run the Game:**
+1. **🚀 Download the Game:**
+   - Click on the following link to download the game from Google Drive: [Download ZXC](https://drive.google.com/file/d/1GIHNRcoFWHKrdNLS-vZ5EBWmCSPi6Vno/view?usp=drive_link)
 
-  - Follow the installation instructions in the README.md file to set up the game environment.
-Wizardry Unleashed:
+2. **🛠 Installation Instructions:**
+   - Once the download is complete, unzip the downloaded file.
 
-  - Control the wizard using intuitive controls and unleash powerful spells to eradicate the skeletons.
-Compete for Glory:
+3. **🎮 Run the Game:**
+   - Navigate to the unzipped folder.
+   - Follow the installation instructions provided in the README.md file to set up the game environment.
 
-Strive for the highest score and challenge your friends to beat your wizardry skills.
+4. **🧙‍♂️ Wizardry Unleashed:**
+   - Control the wizard using intuitive controls and unleash powerful spells to eradicate the skeletons.
+
+5. **🏆 Compete for Glory:**
+   - Strive for the highest score and challenge your friends to beat your wizardry skills.
 
 ## <div align="center">Contribution Guidelines</div>
 

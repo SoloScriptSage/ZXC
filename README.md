@@ -43,7 +43,7 @@ We welcome contributions from the community to make ZXC even more magical! If yo
 
 ## <div align="center">Download Now</div>
 
-🧙‍♂️ [Download the latest version]([#](https://drive.google.com/file/d/1GIHNRcoFWHKrdNLS-vZ5EBWmCSPi6Vno/view?usp=drive_link)) <!-- Replace # with the actual download link -->
+🧙‍♂️ [Download the latest version](https://drive.google.com/file/d/1GIHNRcoFWHKrdNLS-vZ5EBWmCSPi6Vno/view?usp=drive_link)
 
 ## <div align="center">Community and Support</div>
 Join our wizarding community to:

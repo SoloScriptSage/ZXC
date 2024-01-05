@@ -7,7 +7,7 @@
 
  <div align="center">Welcome to ZXC, the ultimate Castle Wizard Slayer game!</div>
 
-## Features
+##  <div align="center">Features</div>
 
 - 🧙‍♂️ **Wizard's Power:** Control a wizard armed with an arsenal of magical abilities to thwart the skeletal horde.
   
@@ -19,7 +19,7 @@
   
 - 📈 **Scoring Mastery:** The faster you clear the castle, the higher your score. Compete with friends or the global community for wizarding supremacy.
 
-## Getting Started
+## <div align="center">Getting Started</div>
 
 1. **Clone the Repository:**
    ```bash
@@ -35,7 +35,7 @@ Compete for Glory:
 
 Strive for the highest score and challenge your friends to beat your wizardry skills.
 
-## Contribution Guidelines
+## <div align="center">Contribution Guidelines</div>
 
 We welcome contributions from the community to make ZXC even more magical! If you'd like to contribute:
 
@@ -45,7 +45,7 @@ We welcome contributions from the community to make ZXC even more magical! If yo
 
 - 🛠️ **Pull Requests**: Contribute directly by submitting pull requests. Follow our contribution guidelines for a smooth process.
 
-## Community and Support
+## <div align="center">Community and Support</div>
 Join our wizarding community to:
 
 - 🤝 **Discuss Strategies**: Share your tips and strategies with fellow wizards.
@@ -54,6 +54,6 @@ Join our wizarding community to:
 
 - 🎮 **Gameplay Help**: Seek assistance or provide tips for other players.
 
-## License
+## <div align="center">License</div>
 This project is licensed under the MIT License - see the LICENSE file for details.
 
